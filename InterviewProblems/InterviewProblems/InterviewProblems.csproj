@@ -53,6 +53,7 @@
     <Compile Include="Arrays\MissingElement.cs" />
     <Compile Include="Arrays\MoveAllZerosToTheEnd.cs" />
     <Compile Include="Arrays\ReverseAnArray.cs" />
+    <Compile Include="Arrays\RomanToInteger.cs" />
     <Compile Include="Arrays\TwoSum.cs" />
     <Compile Include="Arrays\UnionAndIntersection.cs" />
     <Compile Include="Program.cs" />
