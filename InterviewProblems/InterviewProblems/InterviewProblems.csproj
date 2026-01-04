@@ -47,9 +47,13 @@
     <Compile Include="Arrays\ArrayRotation.cs" />
     <Compile Include="Arrays\ArraySorting.cs" />
     <Compile Include="Arrays\ContigiousSubArray.cs" />
+    <Compile Include="Arrays\FirstNonRepeatingElementInArray.cs" />
+    <Compile Include="Arrays\MergeTwoSortedArrays.cs" />
     <Compile Include="Arrays\MinandMax.cs" />
     <Compile Include="Arrays\MissingElement.cs" />
+    <Compile Include="Arrays\MoveAllZerosToTheEnd.cs" />
     <Compile Include="Arrays\ReverseAnArray.cs" />
+    <Compile Include="Arrays\TwoSum.cs" />
     <Compile Include="Arrays\UnionAndIntersection.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
