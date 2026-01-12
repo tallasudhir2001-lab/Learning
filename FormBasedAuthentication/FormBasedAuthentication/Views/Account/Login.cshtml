@@ -1,0 +1,16 @@
+﻿@model FormBasedAuthentication.Models.LoginViewModel
+
+<h2>Login</h2>
+
+<form method="post" asp-controller="Account" asp-action="Login">
+    <input asp-for="Username" placeholder="Username" />
+    <br />
+    <input asp-for="Password" type="password" placeholder="Password" />
+    <br />
+    <button type="submit">Login</button>
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:plum">@ViewBag.Error</p>
+}

@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\InterviewProblems\\FormBasedAuthentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|c:\\interviewproblems\\formbasedauthentication\\formbasedauthentication\\views\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|solutionrelative:formbasedauthentication\\views\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|c:\\interviewproblems\\formbasedauthentication\\formbasedauthentication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|solutionrelative:formbasedauthentication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|c:\\interviewproblems\\formbasedauthentication\\formbasedauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|solutionrelative:formbasedauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|c:\\interviewproblems\\formbasedauthentication\\formbasedauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|solutionrelative:formbasedauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|c:\\interviewproblems\\formbasedauthentication\\formbasedauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|solutionrelative:formbasedauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|c:\\interviewproblems\\formbasedauthentication\\formbasedauthentication\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|solutionrelative:formbasedauthentication\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|c:\\interviewproblems\\formbasedauthentication\\formbasedauthentication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|solutionrelative:formbasedauthentication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|c:\\interviewproblems\\formbasedauthentication\\formbasedauthentication\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|solutionrelative:formbasedauthentication\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|c:\\interviewproblems\\formbasedauthentication\\formbasedauthentication\\information.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D455AF7B-2D5A-4725-90B5-261AFE38DB2F}|FormBasedAuthentication\\FormBasedAuthentication.csproj|solutionrelative:formbasedauthentication\\information.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FormBasedAuthentication\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FormBasedAuthentication\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T09:20:10.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Views\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "FormBasedAuthentication\\Views\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Views\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "FormBasedAuthentication\\Views\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:59:47.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Information.txt",
+              "DocumentMoniker": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Information.txt",
+              "RelativeDocumentMoniker": "FormBasedAuthentication\\Information.txt",
+              "ToolTip": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Information.txt",
+              "RelativeToolTip": "FormBasedAuthentication\\Information.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-09T08:58:44.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FormBasedAuthentication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FormBasedAuthentication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T08:58:12.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FormBasedAuthentication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FormBasedAuthentication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:56:57.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FormBasedAuthentication\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FormBasedAuthentication\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T08:39:42.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FormBasedAuthentication\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FormBasedAuthentication\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAjwCsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:35:26.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "FormBasedAuthentication\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "FormBasedAuthentication\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:34:13.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Program.cs",
+              "RelativeDocumentMoniker": "FormBasedAuthentication\\Program.cs",
+              "ToolTip": "C:\\InterviewProblems\\FormBasedAuthentication\\FormBasedAuthentication\\Program.cs",
+              "RelativeToolTip": "FormBasedAuthentication\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:31:32.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

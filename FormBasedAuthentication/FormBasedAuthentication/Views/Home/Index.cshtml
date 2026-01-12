@@ -1,0 +1,14 @@
+﻿<h2>Home Page</h2>
+
+<p>Hello @User.Identity.Name</p>
+
+<p>Authenticated: @User.Identity.IsAuthenticated</p>
+
+@if (User.IsInRole("Admin"))
+{
+    <p>You are an Admin</p>
+    <a href="/Home/AdminOnly">Admin Page</a>
+}
+
+<br />
+<a href="/Account/Logout">Logout</a>

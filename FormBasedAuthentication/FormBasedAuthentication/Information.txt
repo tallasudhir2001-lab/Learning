@@ -1,0 +1,8 @@
+Program.cs ? defines cookie + scheme
+Login ? creates claims + cookie
+Browser ? stores cookie
+Next request ? sends cookie
+Middleware ? decrypts cookie
+User object ? created automatically
+Authorize ? checks User
+Roles ? read from claims
